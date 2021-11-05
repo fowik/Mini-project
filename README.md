@@ -1,7 +1,7 @@
 # Desas spēle
 
 ## Apraksts
-	- Spēlē piedalās divi spēlētāji(lietotāji). Spēlē būs 9 laukumi(atstarpes) kā dzīvē, atstarpju vietā stāvēs skaitļi no 1 līdz 9, lai ieliktu "X" vai "O" lietotājam jāievada skaitļi no 1 līdz 9, ja ievadīs kaut ko citu, programma nebeidzās un neko nemaina.
+	### Spēlē piedalās divi spēlētāji(lietotāji). Spēlē būs 9 laukumi(atstarpes) kā dzīvē, atstarpju vietā stāvēs skaitļi no 1 līdz 9, lai ieliktu "X" vai "O" lietotājam jāievada skaitļi no 1 līdz 9, ja ievadīs kaut ko citu, programma nebeidzās un neko nemaina.
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
